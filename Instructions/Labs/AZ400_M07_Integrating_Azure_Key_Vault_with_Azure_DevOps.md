@@ -21,7 +21,7 @@ In this lab, you will see how you can integrate Azure Key Vault with an Azure De
 ## Objectives
 
 After you complete this lab, you will be able to:
-
+ghgg
 -   Create an Azure Active Directory (Azure AD) service principal.
 -   Create an Azure key vault. 
 -   Track pull requests through the Azure DevOps pipeline.
