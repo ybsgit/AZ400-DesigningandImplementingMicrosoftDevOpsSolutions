@@ -24,7 +24,7 @@ After you complete this lab, you will be able to:
 
 ## Lab duration
 
--   Estimated time: **60 minutes**
+-   Estimated time: **90 minutes**
 
 ## Instructions
 
